@@ -1,0 +1,2 @@
+class setLimited(set):
+    pass
